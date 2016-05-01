@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE stylesheet  [
+    <!ENTITY nbsp   "&#160;">
+    <!ENTITY copy   "&#169;">
+    <!ENTITY reg    "&#174;">
+    <!ENTITY trade  "&#8482;">
+    <!ENTITY mdash  "&#8212;">
+    <!ENTITY ldquo  "&#8220;">
+    <!ENTITY rdquo  "&#8221;"> 
+    <!ENTITY pound  "&#163;">
+    <!ENTITY yen    "&#165;">
+    <!ENTITY euro   "&#8364;">
+]>
+<root>
+  <c type="1" normed="؛" >؛</c>
+  <c type="1" normed=";" >;</c>
+  <c type="1" normed="٭" >٭</c>
+  <c type="1" normed="&nbsp;" >&nbsp;</c>
+  <c type="1" normed="٫" >٫</c>
+  <c type="1" normed="’" >’</c>
+  <c type="2" normed="@" >@</c>
+  <c type="1" normed="-" >-</c>
+  <c type="1" normed="(" >(</c>
+  <c type="1" normed="," >,</c>
+  <c type="1" normed=":" >:</c>
+  <c type="1" normed="=" >=</c>
+  <c type="1" normed="|" >|</c>
+  <c type="1" normed="؟" >؟</c>
+  <c type="1" normed="٪" >٪</c>
+  <c type="1" normed="*" >*</c>
+  <c type="1" normed="٬" >٬</c>
+  <c type="1" normed="۞" >۞</c>
+  <c type="1" normed="`" >`</c>
+  <c type="1" normed="#" >#</c>
+  <c type="1" normed="&amp;" >&amp;</c>
+  <c type="1" normed=")" >)</c>
+  <c type="1" normed="." >.</c>
+  <c type="1" normed="&gt;" >&gt;</c>
+  <c type="1" normed="}" >}</c>
+  <c type="1" normed="~" >~</c>
+  <c type="1" normed="?" >?</c>
+  <c type="1" normed="%" >%</c>
+  <c type="1" normed="۝" >۝</c>
+  <c type="1" normed="'" >'</c>
+  <c type="1" normed="۩" >۩</c>
+  <c type="1" normed="!" >!</c>
+  <c type="1" normed="$" >$</c>
+  <c type="1" normed="+" >+</c>
+  <c type="1" normed="/" >/</c>
+  <c type="1" normed="&lt;" >&lt;</c>
+  <c type="1" normed="{" >{</c>
+  <c type="22" normed="۰" >۰</c>
+  <c type="22" normed="۱" >۱</c>
+  <c type="22" normed="۲" >۲</c>
+  <c type="22" normed="۳" >۳</c>
+  <c type="22" normed="۴" >۴</c>
+  <c type="22" normed="۵" >۵</c>
+  <c type="22" normed="۶" >۶</c>
+  <c type="22" normed="۷" >۷</c>
+  <c type="22" normed="۸" >۸</c>
+  <c type="22" normed="۹" >۹</c>
+<c type="22" noremed="۰" >٠</c>
+<c type="22" noremed="۱" >١</c>
+<c type="22" noremed="۲" >٢</c>
+<c type="22" noremed="۳" >٣</c>
+<c type="22" noremed="۴" >٤</c>
+<c type="22" noremed="۵" >٥</c>
+<c type="22" noremed="۶" >٦</c>
+<c type="22" noremed="۷" >٧</c>
+<c type="22" noremed="۸" >٨</c>
+<c type="22" noremed="۹" >٩</c>
+  <c type="2" normed="0" >0</c>
+  <c type="2" normed="1" >1</c>
+  <c type="2" normed="2" >2</c>
+  <c type="2" normed="3" >3</c>
+  <c type="2" normed="4" >4</c>
+  <c type="2" normed="5" >5</c>
+  <c type="2" normed="6" >6</c>
+  <c type="2" normed="7" >7</c>
+  <c type="2" normed="8" >8</c>
+  <c type="2" normed="9" >9</c>
+  <c type="3" normed="a" >a</c>
+  <c type="3" normed="b" >b</c>
+  <c type="3" normed="c" >c</c>
+  <c type="3" normed="d" >d</c>
+  <c type="3" normed="e" >e</c>
+  <c type="3" normed="f" >f</c>
+  <c type="3" normed="g" >g</c>
+  <c type="3" normed="h" >h</c>
+  <c type="3" normed="i" >i</c>
+  <c type="3" normed="j" >j</c>
+  <c type="3" normed="k" >k</c>
+  <c type="3" normed="l" >l</c>
+  <c type="3" normed="m" >m</c>
+  <c type="3" normed="n" >n</c>
+  <c type="3" normed="o" >o</c>
+  <c type="3" normed="p" >p</c>
+  <c type="3" normed="q" >q</c>
+  <c type="3" normed="r" >r</c>
+  <c type="3" normed="s" >s</c>
+  <c type="3" normed="t" >t</c>
+  <c type="3" normed="u" >u</c>
+  <c type="3" normed="v" >v</c>
+  <c type="3" normed="w" >w</c>
+  <c type="3" normed="x" >x</c>
+  <c type="3" normed="y" >y</c>
+  <c type="3" normed="z" >z</c>
+  <c type="4" normed="ذ" >ذ</c>
+  <c type="4" normed="ی" >ې</c>
+  <c type="4" normed="ف" >ف</c>
+  <c type="4" normed="آ" >آ</c>
+  <c type="4" normed="ز" >ز</c>
+  <c type="4" normed="ق" >ق</c>
+  <c type="4" normed="س" >س</c>
+  <c type="4" normed="ش" >ش</c>
+  <c type="4" normed="ک" >ك</c>
+  <c type="4" normed="ل" >ل</c>
+  <c type="4" normed="ص" >ص</c>
+  <c type="4" normed="م" >م</c>
+  <c type="4" normed="ه" >ه</c>
+  <c type="4" normed="ع" >؏</c>
+  <c type="4" normed="ئ" >ئ</c>
+  <c type="4" normed="ن" >ن</c>
+  <c type="4" normed="ا" >ا</c>
+  <c type="4" normed="ظ" >ظ</c>
+  <c type="4" normed="ی" >ى</c>
+  <c type="4" normed="ت" >ت</c>
+  <c type="4" normed="ی" >ي</c>
+  <c type="4" normed="ث" >ث</c>
+  <c type="4" normed="ج" >ج</c>
+  <c type="4" normed="ح" >ح</c>
+  <c type="4" normed="خ" >خ</c>
+  <c type="4" normed="ه" >ھ</c>
+  <c type="4" normed="گ" >گ</c>
+  <c type="4" normed="ط" >ط</c>
+  <c type="4" normed="ا" >ٱ</c>
+  <c type="4" normed="ی" >ٸ</c>
+  <c type="4" normed="ت" >ٺ</c>
+  <c type="4" normed="ه" >ە</c>
+  <c type="4" normed="ض" >ض</c>
+  <c type="4" normed="چ" >چ</c>
+  <c type="4" normed="ب" >ب</c>
+  <c type="4" normed="و" >و</c>
+  <c type="4" normed="ع" >ع</c>
+  <c type="4" normed="ک" >ک</c>
+  <c type="4" normed="غ" >غ</c>
+  <c type="4" normed="ک" >ڪ</c>
+  <c type="4" normed="ک" >ګ</c>
+  <c type="4" normed="ی" >ی</c>
+  <c type="4" normed="ت" >ٽ</c>
+  <c type="4" normed="پ" >پ</c>
+  <c type="4" normed="د" >د</c>
+  <c type="4" normed="ء" >ء</c>
+  <c type="4" normed="ر" >ر</c>
+  <c type="4" normed="د" >ډ</c>
+  <c type="4" normed="ی" >ۍ</c>
+  <c type="4" normed="" >َ</c>
+  <c type="4" normed="" >ٌ</c>
+  <c type="4" normed="" >ً</c>
+  <c type="4" normed="" >ُ</c>
+  <c type="4" normed="" >ّ</c>
+  <c type="4" normed="" >ٍ</c>
+  <c type="4" normed="" >ِ</c>
+  <c type="4" normed="" >ـ</c>
+  <c type="4" normed="‌" >‌</c>
+  <c type="4" normed="" >ؐ</c>
+  <c type="4" normed="" >ؓ</c>
+  <c type="4" normed="" >ۖ</c>
+  <c type="4" normed="" >ۚ</c>
+  <c type="4" normed="" >ۨ</c>
+  <c type="4" normed="" >ؑ</c>
+  <c type="4" normed="" >ؔ</c>
+  <c type="4" normed="" >ۗ</c>
+  <c type="4" normed="" >ۜ</c>
+  <c type="1" normed="_" >_</c>
+  <c type="4" normed="" >ؒ</c>
+  <c type="4" normed="" >ؕ</c>
+  <c type="4" normed="" >ۙ</c>
+  <c type="4" normed="" >ۢ</c>
+  <c type="4" normed="ژ" >ژ</c>
+  <c type="3" normed="A" >A</c>
+  <c type="3" normed="T" >T</c>
+  <c type="3" normed="B" >B</c>
+  <c type="3" normed="C" >C</c>
+  <c type="3" normed="D" >D</c>
+  <c type="3" normed="E" >E</c>
+  <c type="3" normed="F" >F</c>
+  <c type="3" normed="G" >G</c>
+  <c type="3" normed="H" >H</c>
+  <c type="3" normed="I" >I</c>
+  <c type="3" normed="J" >J</c>
+  <c type="3" normed="K" >K</c>
+  <c type="3" normed="L" >L</c>
+  <c type="3" normed="M" >M</c>
+  <c type="3" normed="N" >N</c>
+  <c type="3" normed="O" >O</c>
+  <c type="3" normed="P" >P</c>
+  <c type="3" normed="Q" >Q</c>
+  <c type="3" normed="R" >R</c>
+  <c type="3" normed="S" >S</c>
+  <c type="3" normed="U" >U</c>
+  <c type="3" normed="V" >V</c>
+  <c type="3" normed="W" >W</c>
+  <c type="3" normed="X" >X</c>
+  <c type="3" normed="Y" >Y</c>
+  <c type="3" normed="Z" >Z</c>
+  <c type="4" normed="ی" >ﻯ</c>
+  <c type="4" normed="ی" >ﯼ</c>
+  <c type="4" normed="ی" >ﯼ</c>
+  <c type="5" noremed=" " > </c>
+  <!--XX-->
+<c type="1" noremed="[" >[</c>
+<c type="1" noremed="\" >\</c>
+<c type="1" noremed="]" >]</c>
+<c type="1" noremed="«" >«</c>
+<c type="1" noremed="±" >±</c>
+<c type="1" noremed="»" >»</c>
+<c type="1" noremed="×" >×</c>
+<c type="3" noremed="ï" >ï</c>
+<c type="1" noremed="÷" >÷</c>
+<c type="1" noremed="،" >،</c>
+<c type="4" noremed="ا" >أ</c>
+<c type="4" noremed="و" >ؤ</c>
+<c type="4" noremed="ا" >إ</c>
+<c type="4" noremed="ه" >ة</c>
+<c type="1" noremed="‘" >‘</c>
+<c type="1" noremed="‚" >‚</c>
+<c type="1" noremed="‛" >‛</c>
+<c type="1" noremed="“" >“</c>
+<c type="1" noremed="”" >”</c>
+<c type="1" noremed="„" >„</c>
+<c type="1" noremed="•" >•</c>
+<c type="1" noremed="…" >…</c>
+<c type="1" noremed="′" >′</c>
+<c type="1" noremed="″" >″</c>
+<c type="1" noremed="‹" >‹</c>
+<c type="1" noremed="›" >›</c>
+<c type="1" noremed="⁄" >⁄</c>
+<c type="4" noremed="" >ْ</c>
+<c type="5" noremed=" " >‎</c>
+<c type="1" noremed="&quot;" >"</c>
+<c type="5" noremed=" " >	</c>
+<c type="1" noremed="^" >^</c>
+<c type="4" noremed="" >ٔ</c>
+<c type="4" noremed="" >ٴ</c>
+<c type="4" noremed="ه" >ۀ</c>
+<c type="4" noremed="ه" >ہ</c>
+<c type="4" noremed="ه" >ۂ</c>
+<c type="4" noremed="ه" >ۃ</c>
+<c type="4" noremed="الله" >ﷲ</c>
+<c type="4" noremed="لا" >ﻵ</c>
+<c type="4" noremed="لا" >ﻶ</c>
+<c type="4" noremed="لا" >ﻷ</c>
+<c type="4" noremed="لا" >ﻸ</c>
+<c type="4" noremed="لا" >ﻹ</c>
+<c type="4" noremed="لا" >ﻺ</c>
+<c type="4" noremed="لا" >ﻻ</c>
+<c type="4" noremed="لا" >ﻼ</c>
+</root>
